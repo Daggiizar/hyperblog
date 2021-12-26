@@ -1,5 +1,7 @@
 Prueba de commit con la guia de Platzi
 
-realizando parrafos de Prueba
+realizando parrafos de Prueba y escribiendo mas para verificar
 
-Terminado
+Terminado 
+
+otro parrafo de Prueba
